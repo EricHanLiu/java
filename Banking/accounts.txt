@@ -1,0 +1,38 @@
+Eric Liu
+Chequing: 26536.0
+Savings: 0.0
+Account number: 473406
+
+Eawefo Foiajsoidfjaowse
+Chequing: 39988.0
+Savings: 0.0
+Account number: 952306
+
+Eric Laiwurf
+Chequing: 2412.0
+Savings: 0.0PIN: 2412
+Account number: 536686
+
+Auwehf Awefijo
+Chequing: 421249.0
+Savings: 0.0PIN: 4242
+Account number: 656180
+
+Eric 019835
+Chequing: 9821735.0
+Savings: 0.0
+PIN: 4242
+Account number: 190909
+
+Eric Liu
+Chequing: 5000.0
+Savings: 0.0
+PIN: 3141
+Account number: 572795
+
+Eric Liu
+Chequing: 0.0
+Savings: 1.204912904E9
+PIN: 9092
+Account number: 808866
+

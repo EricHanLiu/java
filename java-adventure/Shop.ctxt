@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=newLevel
+comment0.target=Shop(int)
+comment1.params=player
+comment1.target=void\ showItems(Player)
+numComments=2
